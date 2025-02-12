@@ -9,11 +9,12 @@ This script converts a text file with links into a simple HTML page and opens it
 - `requests` module (install with `pip install requests`)
 
 ## Usage
-1. Create a `TxtToHtml.txt` file with links and descriptions:
+1. Edit the `TxtToHtml.txt` file with links and descriptions:
    ```
    Section Name
    https://example.com Description
    ```
+   >Example provided in TxtToHtml.txt file
 2. Run the script:
    
    Just run the file
