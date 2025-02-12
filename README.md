@@ -15,9 +15,13 @@ This script converts a text file with links into a simple HTML page and opens it
    https://example.com Description
    ```
 2. Run the script:
+   
+   Just run the file
+   
+   or
    ```sh
-   python script.py
+   python TxtToHtml.pyw
    ```
-3. The generated HTML file will open in Chrome Incognito mode.
+4. The generated HTML file will open in Chrome Incognito mode.
 
 
